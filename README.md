@@ -18,8 +18,7 @@ Before running the script, ensure you have Python installed on your system. Then
 2. Navigate to the cloned directory:
 `cd gif-generator`
 
-3. Install any required Python packages:   
-For example, `pip install pytube moviepy`
+3. Install any required Python packages: `pip install pytube moviepy`
 
 
 ## Usage
