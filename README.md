@@ -34,8 +34,5 @@ You will be prompted to:
 
 The script will download the specified video segment, convert it to a GIF, and save it to the specified filename.
 
-## Contributing
-Feel free to fork the repository, make changes, and submit pull requests!
-
 ## License
 This project is open source and available under the [MIT License](LICENSE).
