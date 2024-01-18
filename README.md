@@ -32,10 +32,10 @@ You will be prompted to:
 - Provide a filename for the output GIF.
 
 Example:
-`Enter the YouTube video URL: https://www.youtube.com/watch?v=example
+Enter the YouTube video URL: https://www.youtube.com/watch?v=example
 Enter the start time of the GIF (in seconds): 10
 Enter the end time of the GIF (in seconds): 20
-Enter the filename for the GIF (with .gif extension): output.gif`
+Enter the filename for the GIF (with .gif extension): output.gif
 
 The script will download the specified video segment, convert it to a GIF, and save it to the specified filename.
 
