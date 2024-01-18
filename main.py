@@ -29,7 +29,7 @@ def convert_to_gif(video_path, gif_path):
     except Exception as e:
         sys.exit(f"Error: {e}")
 
-def main():
+def main(): #cli
     print("YouTube Video to GIF Converter")
     video_url = input("Enter the YouTube video URL: ")
     start = int(input("Enter the start time of the GIF (in seconds): "))
