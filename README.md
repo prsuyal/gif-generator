@@ -24,7 +24,7 @@ Before running the script, ensure you have Python installed on your system. Then
 
 ## Usage
 Run the script from the command line:
-`python youtube_to_gif.py`
+`python main.py`
 
 You will be prompted to:
 - Enter the YouTube video URL. (ex: https://www.youtube.com/watch?v=example)
