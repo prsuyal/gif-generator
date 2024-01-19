@@ -4,11 +4,6 @@
 ## Overview
 This script allows users to create GIFs from any YouTube video. It's a simple tool that lets you specify the start and end time of a video segment and converts that segment into a GIF. 
 
-## Features
-- Download a specific segment of a YouTube video.
-- Convert the downloaded video segment into a GIF.
-- Simple command-line interface for ease of use.
-
 ## Installation
 Before running the script, ensure you have Python installed on your system. Then, follow these steps to install the necessary dependencies.
 
@@ -32,6 +27,3 @@ You will be prompted to:
 - Provide a filename for the output GIF. (ex: output.gif)
 
 The script will download the specified video segment, convert it to a GIF, and save it to the specified filename.
-
-## License
-This project is open source and available under the [MIT License](LICENSE).
